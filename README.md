@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhammedb8826" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedb8826?logo=twitter&style=for-the-badge" alt="muhammedb8826" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://j.gifs.com/Z6VzgR.gif">
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-25731151.gif" />
 
 
 - 🌱 I’m currently learning Full-stack development **React, NodeJS, Ruby on rails**
