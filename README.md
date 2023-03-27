@@ -1,11 +1,15 @@
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://muhammedb8826.io)
+
+
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedb8826&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedb8826" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedb8826" alt="muhammedb8826" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/muhammedb8826" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedb8826?logo=twitter&style=for-the-badge" alt="muhammedb8826" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://j.gifs.com/Z6VzgR.gif">
+
 
 - 🌱 I’m currently learning Full-stack development **React, NodeJS, Ruby on rails**
 
@@ -30,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedb8826&show_icons=true&locale=en" alt="muhammedb8826" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedb8826&" alt="muhammedb8826" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedb8826" alt="muhammedb8826" /></a> </p>
