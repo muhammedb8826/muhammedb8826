@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">A passionate full-stack developer from Ethiopia</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedb8826&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedb8826" /> </p>
 
